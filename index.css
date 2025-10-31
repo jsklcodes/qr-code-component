@@ -20,6 +20,8 @@
   --space-large: 2.5rem;
   --space-medium: 1.5rem;
   --space-small: 1rem;
+
+  --box-shadow: 0 1.5625rem 1.5625rem 0 rgba(0, 0, 0, 0.0477);
 }
 
 body {
@@ -43,7 +45,7 @@ img {
   width: min(100% - 1.7188rem, 20rem);
   margin-inline: auto;
   text-align: center;
-  box-shadow: 0 1.5625rem 1.5625rem 0 rgba(0, 0, 0, 0.0477);
+  box-shadow: var(--box-shadow);
 }
 
 .qr-code-card__image {
