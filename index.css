@@ -65,5 +65,5 @@ img {
   line-height: 1.4;
   letter-spacing: 0.0125rem;
   color: var(--color-slate-500);
-  margin-inline: 1rem;
+  margin-inline: clamp(0.5rem, 2vw, 1.5rem);
 }
