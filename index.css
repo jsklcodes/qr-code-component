@@ -48,7 +48,7 @@ img {
 
 .qr-code-card__image {
   border-radius: 0.625rem;
-  margin-bottom: var(--space-medium);
+  margin-block-end: var(--space-medium);
 }
 
 .qr-code-card__title {
@@ -56,7 +56,7 @@ img {
   font-weight: 700;
   line-height: 1.2;
   color: var(--color-slate-900);
-  margin-bottom: var(--space-small);
+  margin-block-end: var(--space-small);
 }
 
 .qr-code-card__description {
