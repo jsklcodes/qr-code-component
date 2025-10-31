@@ -43,3 +43,11 @@ img {
   width: min(100% - 1.7188rem, 20rem);
   margin-inline: auto;
 }
+
+.qr-code-card__image {
+  margin-bottom: var(--space-medium);
+}
+
+.qr-code-card__title {
+  margin-bottom: var(--space-small);
+}
