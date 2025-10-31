@@ -21,3 +21,8 @@
   --space-medium: 1.5rem;
   --space-small: 1rem;
 }
+
+body {
+  background-color: var(--color-slate-300);
+  font-family: var(--font-family);
+}
