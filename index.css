@@ -43,6 +43,7 @@ img {
   width: min(100% - 1.7188rem, 20rem);
   margin-inline: auto;
   text-align: center;
+  box-shadow: 0 1.5625rem 1.5625rem 0 rgba(0, 0, 0, 0.0477);
 }
 
 .qr-code-card__image {
