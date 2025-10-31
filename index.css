@@ -23,6 +23,8 @@
 }
 
 body {
+  align-content: center;
+  min-block-size: 100vh;
   background-color: var(--color-slate-300);
   font-family: var(--font-family);
 }
