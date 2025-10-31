@@ -31,3 +31,13 @@ img {
   display: block;
   max-width: 100%;
 }
+
+/* MARK: qr-code-card */
+.qr-code-card {
+  background-color: var(--color-white);
+  border-radius: 1.25rem;
+  padding: var(--space-small) var(--space-small) var(--space-large)
+    var(--space-small);
+  width: min(100% - 1.7188rem, 20rem);
+  margin-inline: auto;
+}
