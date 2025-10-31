@@ -46,6 +46,7 @@ img {
 }
 
 .qr-code-card__image {
+  border-radius: 0.625rem;
   margin-bottom: var(--space-medium);
 }
 
